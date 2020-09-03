@@ -23,25 +23,5 @@
         "thumbnail": "https://img.youtube.com/vi/lU7qDKqceZg/mqdefault.jpg",
         "title": "Concat map notification",
         "description": "mobile notification using concat map"
-    },
-    {
-        "thumbnail": "https://img.youtube.com/vi/k8Q8SFlBCks/mqdefault.jpg",
-        "title": "Promises",
-        "description": "rxjs promises"
-    },
-    {
-        "thumbnail":"https://img.youtube.com/vi/ITcv82TXS9o/mqdefault.jpg",
-        "title":"Concat Map",
-        "description":"rxjs concept of concat map"
-      },
-      {
-        "thumbnail":"https://img.youtube.com/vi/u59iD_ng5No/mqdefault.jpg",
-        "title":"From Event",
-        "description":"rxjs from event"
-      },
-      {
-        "thumbnail":"https://img.youtube.com/vi/lOxHNa7mc6s/mqdefault.jpg",
-        "title":"Ravish Kumar interview",
-        "description":"me patrakar bolunga aap ravish kumar samjh lena"
-      }
+    }
 ]
